@@ -435,3 +435,4 @@ deck_back[0].onclick(next_card)
 deck_back[0].goto(draw_pile_location)
 deck_back[0].st()
 
+screen.mainloop()
